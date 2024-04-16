@@ -1,7 +1,7 @@
 lib-1990-1999-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-02-21
+2024-04-16
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -83,6 +83,14 @@ Muth’en, B. O., & Curran, P. J. (1997). General longitudinal modeling of
 individual differences in experimental designs: A latent variable
 framework for analysis and power estimation. *Psychological Methods*,
 *2*(4), 371–402. <https://doi.org/10.1037/1082-989x.2.4.371>
+
+</div>
+
+<div id="ref-Oehlert-1992" class="csl-entry">
+
+Oehlert, G. W. (1992). A note on the delta method. *The American
+Statistician*, *46*(1), 27–29.
+<https://doi.org/10.1080/00031305.1992.10475842>
 
 </div>
 
