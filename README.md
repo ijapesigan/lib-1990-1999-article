@@ -1,7 +1,7 @@
 lib-1990-1999-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-04-16
+2024-04-28
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -127,6 +127,14 @@ Stoffer, D. S., & Wall, K. D. (1991). Bootstrapping state-space models:
 Gaussian maximum likelihood estimation and the Kalman filter. *Journal
 of the American Statistical Association*, *86*(416), 1024–1033.
 <https://doi.org/10.1080/01621459.1991.10475148>
+
+</div>
+
+<div id="ref-VonKorff-Simon-1996" class="csl-entry">
+
+Von Korff, M., & Simon, G. (1996). The relationship between pain and
+depression. *British Journal of Psychiatry*, *168*(S30), 101–108.
+<https://doi.org/10.1192/s0007125000298474>
 
 </div>
 
