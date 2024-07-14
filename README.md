@@ -1,10 +1,9 @@
 lib-1990-1999-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-07-08
+2024-07-14
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -50,6 +49,14 @@ Cooper, M. L., Frone, M. R., Russell, M., & Mudar, P. (1995). Drinking
 to regulate positive and negative emotions: A motivational model of
 alcohol use. *Journal of Personality and Social Psychology*, *69*(5),
 990–1005. <https://doi.org/10.1037/0022-3514.69.5.990>
+
+</div>
+
+<div id="ref-Kenny-Zautra-1995" class="csl-entry">
+
+Kenny, D. A., & Zautra, A. (1995). The trait-state-error model for
+multiwave data. *Journal of Consulting and Clinical Psychology*,
+*63*(1), 52–59. <https://doi.org/10.1037/0022-006x.63.1.52>
 
 </div>
 
