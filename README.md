@@ -1,10 +1,9 @@
 lib-1990-1999-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-07-18
+2024-07-25
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -50,6 +49,16 @@ Cooper, M. L., Frone, M. R., Russell, M., & Mudar, P. (1995). Drinking
 to regulate positive and negative emotions: A motivational model of
 alcohol use. *Journal of Personality and Social Psychology*, *69*(5),
 990–1005. <https://doi.org/10.1037/0022-3514.69.5.990>
+
+</div>
+
+<div id="ref-Dumenci-Windle-1996" class="csl-entry">
+
+Dumenci, L., & Windle, M. (1996). A latent trait-state model of
+adolescent depression using the <span class="nocase">Center for
+Epidemiologic Studies-Depression Scale</span>. *Multivariate Behavioral
+Research*, *31*(3), 313–330.
+<https://doi.org/10.1207/s15327906mbr3103_3>
 
 </div>
 
@@ -118,6 +127,17 @@ Robey, R. R., & Barcikowski, R. S. (1992). Type I error and the number
 of iterations in Monte Carlo studies of robustness. *British Journal of
 Mathematical and Statistical Psychology*, *45*(2), 283–288.
 <https://doi.org/10.1111/j.2044-8317.1992.tb00993.x>
+
+</div>
+
+<div id="ref-Saunders-Assland-Babor-etal-1993" class="csl-entry">
+
+Saunders, J. B., Aasland, O. G., Babor, T. F., de la Fuente, J. R., &
+Grant, M. (1993). Development of the Alcohol Use Disorders
+Identification Test (AUDIT): <span class="nocase">WHO Collaborative
+Project on Early Detection of Persons with Harmful Alcohol
+Consumption‐II</span>. *Addiction*, *88*(6), 791–804.
+<https://doi.org/10.1111/j.1360-0443.1993.tb02093.x>
 
 </div>
 
