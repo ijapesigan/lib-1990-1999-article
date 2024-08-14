@@ -1,7 +1,7 @@
 lib-1990-1999-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-08-08
+2024-08-14
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -174,6 +174,15 @@ Methodology*, *58*(1), 267–288.
 Von Korff, M., & Simon, G. (1996). The relationship between pain and
 depression. *British Journal of Psychiatry*, *168*(S30), 101–108.
 <https://doi.org/10.1192/s0007125000298474>
+
+</div>
+
+<div id="ref-Wechsler-Dowdall-Davenport-etal-1995" class="csl-entry">
+
+Wechsler, H., Dowdall, G. W., Davenport, A., & Rimm, E. B. (1995). A
+gender-specific measure of binge drinking among college students.
+*American Journal of Public Health*, *85*(7), 982–985.
+<https://doi.org/10.2105/ajph.85.7.982>
 
 </div>
 
