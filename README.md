@@ -1,7 +1,7 @@
 lib-1990-1999-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-08-14
+2024-08-15
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -60,6 +60,14 @@ adolescent depression using the <span class="nocase">Center for
 Epidemiologic Studies-Depression Scale</span>. *Multivariate Behavioral
 Research*, *31*(3), 313–330.
 <https://doi.org/10.1207/s15327906mbr3103_3>
+
+</div>
+
+<div id="ref-Eilers-Marx-1996" class="csl-entry">
+
+Eilers, P. H. C., & Marx, B. D. (1996). Flexible smoothing with
+<span class="nocase">B-splines</span> and penalties. *Statistical
+Science*, *11*(2). <https://doi.org/10.1214/ss/1038425655>
 
 </div>
 
