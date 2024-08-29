@@ -1,7 +1,7 @@
 lib-1990-1999-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-08-19
+2024-08-29
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -147,6 +147,16 @@ Identification Test (AUDIT): <span class="nocase">WHO Collaborative
 Project on Early Detection of Persons with Harmful Alcohol
 Consumption‐II</span>. *Addiction*, *88*(6), 791–804.
 <https://doi.org/10.1111/j.1360-0443.1993.tb02093.x>
+
+</div>
+
+<div id="ref-Schulenberg-OMalley-Bachman-etal-1996" class="csl-entry">
+
+Schulenberg, J., O’Malley, P. M., Bachman, J. G., Wadsworth, K. N., &
+Johnston, L. D. (1996). Getting drunk and growing up: Trajectories of
+frequent binge drinking during the transition to young adulthood.
+*Journal of Studies on Alcohol*, *57*(3), 289–304.
+<https://doi.org/10.15288/jsa.1996.57.289>
 
 </div>
 
