@@ -152,7 +152,7 @@ Consumption‐II</span>. *Addiction*, *88*(6), 791–804.
 
 <div id="ref-Schulenberg-OMalley-Bachman-etal-1996" class="csl-entry">
 
-Schulenberg, J., O’Malley, P. M., Bachman, J. G., Wadsworth, K. N., &
+Schulenberg, J. E., O’Malley, P. M., Bachman, J. G., Wadsworth, K. N., &
 Johnston, L. D. (1996). Getting drunk and growing up: Trajectories of
 frequent binge drinking during the transition to young adulthood.
 *Journal of Studies on Alcohol*, *57*(3), 289–304.
