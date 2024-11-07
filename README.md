@@ -1,7 +1,7 @@
 lib-1990-1999-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-10-02
+2024-11-07
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -41,6 +41,15 @@ estimator. *Econometrica*, *60*(4), 953.
 Bollen, K. A., & Stine, R. (1990). Direct and indirect effects:
 Classical and bootstrap estimates of variability. *Sociological
 Methodology*, *20*, 115. <https://doi.org/10.2307/271084>
+
+</div>
+
+<div id="ref-Collins-Wugalter-1992" class="csl-entry">
+
+Collins, L. M., & Wugalter, S. E. (1992). Latent class models for
+stage-sequential dynamic latent variables. *Multivariate Behavioral
+Research*, *27*(1), 131–157.
+<https://doi.org/10.1207/s15327906mbr2701_8>
 
 </div>
 
