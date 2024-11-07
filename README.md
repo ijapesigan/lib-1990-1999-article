@@ -92,7 +92,7 @@ multiwave data. *Journal of Consulting and Clinical Psychology*,
 
 Li, K. H., Raghunathan, T. E., & Rubin, D. B. (1991). Large-sample
 significance levels from multiply imputed data using moment-based
-statistics and an $`F`$ reference distribution. *Journal of the American
+statistics and an $F$ reference distribution. *Journal of the American
 Statistical Association*, *86*(416), 1065–1073.
 <https://doi.org/10.1080/01621459.1991.10475152>
 
