@@ -1,7 +1,7 @@
 lib-1990-1999-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-01
+2026-11-02
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -236,6 +236,14 @@ Statistician*, *46*(1), 27–29.
 
 </div>
 
+<div id="ref-Olkin-Finn-1995" class="csl-entry">
+
+Olkin, I., & Finn, J. D. (1995). Correlations redux. *Psychological
+Bulletin*, *118*(1), 155–164.
+<https://doi.org/10.1037/0033-2909.118.1.155>
+
+</div>
+
 <div id="ref-Oud-vandenBercken-Essers-1990" class="csl-entry">
 
 <span class="nocase">Oud, J. H., van den Bercken, J. H., & Essers, R.
@@ -358,6 +366,16 @@ Wechsler, H., Dowdall, G. W., Davenport, A., & Rimm, E. B. (1995). A
 gender-specific measure of binge drinking among college students.
 *American Journal of Public Health*, *85*(7), 982–985.
 <https://doi.org/10.2105/ajph.85.7.982>
+
+</div>
+
+<div id="ref-Wilkinson-TaskForceonStatisticalInference-1999"
+class="csl-entry">
+
+Wilkinson, L., & Task Force on Statistical Inference. (1999).
+Statistical methods in psychology journals: Guidelines and explanations.
+*American Psychologist*, *54*(8), 594–604.
+<https://doi.org/10.1037/0003-066x.54.8.594>
 
 </div>
 
