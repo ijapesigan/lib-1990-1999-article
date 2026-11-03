@@ -1,7 +1,7 @@
 lib-1990-1999-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-02
+2026-11-03
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -20,6 +20,15 @@ Check](https://github.com/ijapesigan/lib-1990-1999-article/actions/workflows/non
 
 <div id="refs" class="references csl-bib-body hanging-indent"
 data-entry-spacing="0" data-line-spacing="2">
+
+<div id="ref-Algina-1999" class="csl-entry">
+
+Algina, J. (1999). A comparison of methods for constructing confidence
+intervals for the squared multiple correlation coefficient.
+*Multivariate Behavioral Research*, *34*(4), 493–504.
+<https://doi.org/10.1207/S15327906MBR3404_5>
+
+</div>
 
 <div id="ref-Andrews-1991" class="csl-entry">
 
