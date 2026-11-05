@@ -1,7 +1,7 @@
 lib-1990-1999-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-03
+2026-11-05
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -20,6 +20,15 @@ Check](https://github.com/ijapesigan/lib-1990-1999-article/actions/workflows/non
 
 <div id="refs" class="references csl-bib-body hanging-indent"
 data-entry-spacing="0" data-line-spacing="2">
+
+<div id="ref-Alf-Graf-1999" class="csl-entry">
+
+Alf, E. F., & Graf, R. G. (1999). Asymptotic confidence limits for the
+difference between two squared multiple correlations: A simplified
+approach. *Psychological Methods*, *4*(1), 70–75.
+<https://doi.org/10.1037/1082-989x.4.1.70>
+
+</div>
 
 <div id="ref-Algina-1999" class="csl-entry">
 
