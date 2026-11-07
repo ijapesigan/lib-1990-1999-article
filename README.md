@@ -1,19 +1,15 @@
 lib-1990-1999-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-05
+2026-11-07
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
 <!-- badges: start -->
-
-[![Make
-Project](https://github.com/ijapesigan/lib-1990-1999-article/actions/workflows/make.yml/badge.svg)](https://github.com/ijapesigan/lib-1990-1999-article/actions/workflows/make.yml)
-[![Shell
-Check](https://github.com/ijapesigan/lib-1990-1999-article/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/ijapesigan/lib-1990-1999-article/actions/workflows/shellcheck.yml)
-[![Non-ASCII
-Check](https://github.com/ijapesigan/lib-1990-1999-article/actions/workflows/non-ascii-check.yml/badge.svg)](https://github.com/ijapesigan/lib-1990-1999-article/actions/workflows/non-ascii-check.yml)
 [![pages-build-deployment](https://github.com/ijapesigan/lib-1990-1999-article/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ijapesigan/lib-1990-1999-article/actions/workflows/pages/pages-build-deployment)
+[![Make Project](https://github.com/ijapesigan/lib-1990-1999-article/actions/workflows/make.yml/badge.svg)](https://github.com/ijapesigan/lib-1990-1999-article/actions/workflows/make.yml)
+[![Non-ASCII Check](https://github.com/ijapesigan/lib-1990-1999-article/actions/workflows/non-ascii-check.yml/badge.svg)](https://github.com/ijapesigan/lib-1990-1999-article/actions/workflows/non-ascii-check.yml)
+[![Shell Check](https://github.com/ijapesigan/lib-1990-1999-article/actions/workflows/shellcheck.yml/badge.svg)](https://github.com/ijapesigan/lib-1990-1999-article/actions/workflows/shellcheck.yml)
 <!-- badges: end -->
 
 ## References
